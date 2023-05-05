@@ -114,8 +114,11 @@ section {
   flex-direction: column;
   gap: 5px;
 }
-h1, h3 {
-  font-weight: 200;
+h1 {font-weight: 200;
+  color: var(--Very-Dark-Blue);
+} }
+
+h3 {
   color: var(--Very-Dark-Blue);
 }
 
